@@ -17,7 +17,7 @@
 | Tag | Summary |
 | ---- | ---- |
 | :memo:[Docs] | Writing/Editing README, Wiki, AI model specification |
-| :lipstick:[Style] | CSS styling, adjusting layout |
+| :art:[Style] | CSS styling, adjusting layout |
 | :framed_picture:[Asset] | Adding/Editing static media file |
 | :truck:[Rename] | Editing file structure, renaming |
 | :brain:[Model] | **AI/ML** Editing weight file, checkpoint, reasoning graph |

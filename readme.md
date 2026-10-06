@@ -1,43 +1,130 @@
-# 🚀 Hello, I'm Maru!
+# 👋 Hi, I'm Maru
 
-### 🛠 Tech Stack
+> Student developer interested in **AI, Robotics, Privacy, and Security**
 
-**Languages & Core** 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries** 
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Infrastructure & Tools** 
-
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I like building practical software and exploring how intelligent systems should behave when they are **uncertain**.
 
 ---
 
-### 🔭 Current Focus
-* 🤖 **AI-Driven Development**: Integrating LLMs to automate and optimize repetitive coding tasks.
-* 🏗️ **System Design**: Building modular architectures that stand the test of time.
-* ⚡ **Performance Tuning**: Refactoring legacy bottlenecks for maximum throughput.
+## 🚀 Featured Projects
+
+### 🔐 [Secure Tools](https://github.com/SecureToolsProject/Secure_Tools)
+
+Privacy-first browser utilities for **PDF, Image, Metadata, and OCR** workflows.
+
+- Local-only processing
+- No file uploads / analytics / tracking
+- PDF & image utilities
+- Metadata inspection & removal
+- Local OCR
+- Accessibility & i18n
+
+`TypeScript` `JavaScript` `Vite` `Web APIs`
 
 ---
 
-### 📈 GitHub Activities
+### 🧹 [Secure Metadata](https://github.com/SecureToolsProject/Secure_Metadata)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maruson08&theme=tokyonight)
+Security-oriented metadata parsing and sanitization library built for Secure Tools.
+
+`JPEG` `PNG` `WebP` `EXIF` `XMP` `ICC` `Fuzz Testing`
 
 ---
+
+### 🐾 [deskPet](https://github.com/SecureToolsProject/deskPet)
+
+Local-only desktop pet with autonomous behaviors and state-based animation.
+
+`Tauri` `Rust` `TypeScript`
+
+---
+
+### 🔑 [Phantom](https://github.com/illusion-crew/phantom)
+
+Deterministic password-generation project by **illusion-crew**.
+
+`TypeScript` `Security`
+
+---
+
+## 🔬 Research & Interests
+
+- 🤖 Embodied AI / Physical AI
+- 🧠 AI under uncertainty
+- 👁️ Computer Vision & 3D perception
+- 💬 Dialogue turn-taking
+- 🌍 World Models / Sim2Real
+- 🔒 Privacy & secure software
+
+### GNN Image Anomaly Detection
+
+```text
+Image → SLIC → RAG → GNN → DBSCAN / HDBSCAN
+```
+
+Explored how representation and graph construction affect anomaly detection.
+
+🏆 **Silver Award — Interdisciplinary Research Activity**
+
+---
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+---
+
+## 📌 Other Work
+
+- [ladderGame](https://github.com/maruson08/ladderGame) — mathematical simulation
+- [CCFEPub](https://github.com/maruson08/CCFEPub)
+- TF-IDF music recommendation
+- VGGT / multi-view 3D vision study
+- Android accessibility experiments
+- Web security & Linux labs
+
+🏆 **Gold Award — Information / Programming Competition**
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maruson08&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruson08&layout=compact&hide_border=true)
+
+---
+
+## 🎯 Current Focus
+
+```text
+AI / Robotics
+├─ Embodied AI
+├─ World Models
+├─ Perception
+├─ Decision Making
+└─ Uncertainty
+
+Software
+├─ Privacy
+├─ Security
+├─ Local-first
+└─ Reliability
+```
+
+> Building systems that know **when they do not know enough to act.**
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-maruson08-181717?style=flat-square&logo=github)](https://github.com/maruson08)
+[![Secure Tools](https://img.shields.io/badge/Secure%20Tools-Project-blue?style=flat-square&logo=github)](https://github.com/SecureToolsProject)
+
 
 ### 🤝 Connect with me
 
